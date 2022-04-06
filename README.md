@@ -4,13 +4,13 @@
 ### **檔案介紹**
 ⚠此專案相當龐大，共有2000多行，請自行斟酌觀看⚠
 
-🔳[ˋbullethell.cppˋ](https://github.com/1Needle/Bullethell-Game/blob/main/bullethell.cpp)\
+🔳[`bullethell.cpp`](https://github.com/1Needle/Bullethell-Game/blob/main/bullethell.cpp)\
 此檔案內含有main函式，主要用於控制流程，使流程簡單易讀。
 
-🔳[ˋclass.hˋ](https://github.com/1Needle/Bullethell-Game/blob/main/class.h)\
+🔳[`class.h`](https://github.com/1Needle/Bullethell-Game/blob/main/class.h)\
 此檔案內含有各類別的定義。
 
-🔳[ˋfunction.cppˋ](https://github.com/1Needle/Bullethell-Game/blob/main/function.cpp)\
+🔳[`function.cpp`](https://github.com/1Needle/Bullethell-Game/blob/main/function.cpp)\
 本專案的主要檔案。\
 內含有update, process_input, render等主要函式。\
 此外，還有各類別的成員函式定義，以及一些常用的函式。\
@@ -26,7 +26,7 @@
 \*由於時間不足，關卡設計不完整，只有一隻boss，因此一進入遊戲便會升級為滿等狀態，讓玩家能擁有正常的boss戰體驗\*
 
 ⬇**遊戲下載**⬇\
-[ˋresources.zipˋ](https://github.com/1Needle/Bullethell-Game/blob/main/resources.zip) & [ˋbullethell game.zipˋ](https://github.com/1Needle/Bullethell-Game/blob/main/bullethell%20game.zip)\
+[`resources.zip`](https://github.com/1Needle/Bullethell-Game/blob/main/resources.zip) & [`bullethell game.zip`](https://github.com/1Needle/Bullethell-Game/blob/main/bullethell%20game.zip)\
 由於檔案過大，無法合成一個檔案上傳到github，因此分為兩個zip檔。\
 遊玩時將兩個檔案都解壓縮到同一個資料夾即可點選Bullethell.exe開始遊戲。\
 \*由於測試裝置不夠多，無法保證所有電腦都可順利執行此遊戲\*
