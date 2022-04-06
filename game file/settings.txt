@@ -1,0 +1,3 @@
+main_volume = 54
+SE_volume = 84
+BGM_volume = 0
