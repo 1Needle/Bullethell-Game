@@ -5,7 +5,7 @@
 ⚠此專案相當龐大，共有2000多行，請自行斟酌觀看⚠
 
 🔳[`bullethell.cpp`](https://github.com/1Needle/Bullethell-Game/blob/main/bullethell.cpp)\
-此檔案內含有main函式，主要用於控制流程，使流程簡單易讀。
+◇此檔案內含有main函式，主要用於控制流程，使流程簡單易讀。
 
 🔳[`class.h`](https://github.com/1Needle/Bullethell-Game/blob/main/class.h)\
 ◇此檔案內含有各類別的定義。
